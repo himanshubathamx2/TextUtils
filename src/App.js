@@ -15,9 +15,9 @@ function App()
       type:type
     })
     //to disable alert after 2 sec
-    setTimeout(() => {
-      setAlert(null);
-    }, 1500);
+    // setTimeout(() => {
+    //   setAlert(null);
+    // }, 1500);
   }
   const toggleMode=()=>
   {
